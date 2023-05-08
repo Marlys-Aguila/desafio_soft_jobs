@@ -1,6 +1,6 @@
 ﻿![](./assets/img/logo_desafio.png)
 
-#Desafío - Soft Jobs
+# Desafío - Soft Jobs
 
 Para realizar este desafío debes haber estudiado previamente todo el material disponible correspondiente a la unidad.
 
@@ -9,7 +9,7 @@ Lee todo el documento antes de comenzar el desarrollo **individual**,para asegur
 - Desarrollo desafío:
    - Para la realización del desafío necesitarás apoyarte del archivo *Apoyo Desafío Soft Jobs*
 
-###Descripción
+### Descripción
 
 La empresa *Soft Jobs* ha iniciado el desarrollo de una plataforma que busca apoyar a la comunidad de desarrolladores juniors a conseguir trabajos cortos y sencillos para acumular experiencia laboral y mejorar sus oportunidades.
 
@@ -20,20 +20,24 @@ Deberás descargar el material de apoyo en el que encontrarás una aplicación c
 A continuación te mostramos imágenes de la aplicación cliente disponible en el material de apoyo.
 
 ![](./assets/img/bienvenido_01.jpeg)
+
 Imagen 1. Página de Inicio Fuente: Desafío Latam
 <br />
 
-![](./assets/img/registrar.jpeg)
+![](./assets/img/registrar.jpeg) 
+
 Imagen 2. Registro de Usuario Fuente: Desafío Latam
 <br />
 
 ![](./assets/img/inicio_sesion.jpeg)
+
 Imagen 3. Inicio de sesión Fuente: Desafío Latam
 <br />
 
 ![](./assets/img/bienvenido_02.jpeg)
+
 Imagen 4. Mi Perfil Fuente: Desafío Latam
-<br />
+<br /><br />
 
 Para realizar este desafío necesitarás ejecutar el siguiente script *sql* en tu terminal ***psql*** para crear la base de datos y la tabla que utilizaremos:
 
@@ -54,7 +58,7 @@ Tu servidor debe:
 - Decodifique el token para obtener el ***email*** del usuario a buscar en su ***payload***
 - Obtenga y devuelva el registro del usuario
 
-###Requerimientos
+### Requerimientos
 
 1. Registrar y obtener usuarios de la base de datos **(1.5 puntos)**
 1. Usar middlewares para **(2 puntos)**:
